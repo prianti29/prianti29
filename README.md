@@ -1,5 +1,5 @@
-##👋 Hi there, I'm Prianti Banik Turna
-
+## Hi there, 👋
+# I'm Prianti Banik Turna
 
 
 **Software Engineer | Competitive Programmer**  
