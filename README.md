@@ -1,6 +1,6 @@
-## Hi there 👋
+##👋 Hi there, I'm Prianti Banik Turna
 
-# Prianti Banik Turna
+
 
 **Software Engineer | Competitive Programmer**  
 I am a dedicated software engineer and competitive programming enthusiast with a passion for learning and solving complex problems. I thrive in fast-paced environments and am committed to delivering high-quality software solutions.
