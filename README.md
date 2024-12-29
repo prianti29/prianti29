@@ -5,9 +5,20 @@
 **Software Engineer | Competitive Programmer**  
 I am a dedicated software engineer and competitive programming enthusiast with a passion for learning and solving complex problems. I thrive in fast-paced environments and am committed to delivering high-quality software solutions.
 
+
+### Software QA Engineer   
+**Genesys software LLC, Bangladesh**  
+*March  – Present | Dhaka, Bangladesh*
+
+Developed test plans and created manual test cases for functionality validation.
+– Automated UI testing using Cypress and API testing with Postman to ensure reliability.
+– Conducted performance testing using JMeter to assess scalability.
+– Wrote comprehensive test reports to document findings, results, and improvements.
+– Participated in regression testing to ensure high-quality releases.
+
 ### Software Engineer Intern  
 **Samsung R&D Institute, Bangladesh**  
-*September 2023 – Present | Dhaka, Bangladesh*
+*September 2023 – December 2023 | Dhaka, Bangladesh*
 
 - Actively involved in the continuous improvement of the DOI Manager to ensure its functionality and reliability.
 - Collaborated with cross-functional teams to gather requirements and implement new features.
