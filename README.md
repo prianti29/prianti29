@@ -3,15 +3,15 @@
 
 
 **Software QA Engineer | Competitive Programmer**  
-I am a dedicated software engineer and competitive programming enthusiast with a passion for learning and solving complex problems. I thrive in fast-paced environments and am committed to delivering high-quality software solutions.
+QA Engineer and competitive programmer with 1 year of industry experience. Proficient in test management, database, and application testing, sharpening a problem-solving mindset through active participation in coding competitions. Dedicated to ensuring software quality and driving continuous improvement within dynamic teams.
 
 
 ### Software QA Engineer   
-**Genesys software LLC, Bangladesh**  
+**Genesys Software LLC, Bangladesh**  
 *March  – Present | Dhaka, Bangladesh*
 
 Developed test plans and created manual test cases for functionality validation.
-– Automated UI testing using Cypress and API testing with Postman to ensure reliability.
+– Automated UI testing using Cypress and API with Postman to ensure reliability.
 – Conducted performance testing using JMeter to assess scalability.
 – Wrote comprehensive test reports to document findings, results, and improvements.
 – Participated in regression testing to ensure high-quality releases.
