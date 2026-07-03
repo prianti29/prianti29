@@ -57,11 +57,11 @@ Developed test plans and created manual test cases for functionality validation.
 ### SQA Skills
 - **Manual Testing:** Requirement Analysis, Test Planning, Designing, Writing and Reviewing Test Cases, Test Execution Evaluation, Creating Test Reports
 - **Concepts:** SDLC, STLC, OOP
-- **API Testing Tool:** Postman, Cypress
+- **API Testing Tool:** Postman, Cypress, Playwright
 - **Agile Methodology & Project Management Tool:** Jira
 - **Performance Testing Tool:** JMeter
-- **Automation Testing Framework:** Cypress
-- **Performance Testing Framework:** Jmeter, Postman
+- **Automation Testing Framework:** Cypress, Playwrite
+- **Performance Testing Framework:** Jmeter, Postman, K6
 - **Test Report Writing Tool:** Excel
 
 ---
