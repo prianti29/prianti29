@@ -3,7 +3,7 @@
 
 
 **Software QA Engineer | Competitive Programmer**  
-QA Engineer and competitive programmer with 1 year of industry experience. Proficient in test management, database, and application testing, sharpening a problem-solving mindset through active participation in coding competitions. Dedicated to ensuring software quality and driving continuous improvement within dynamic teams.
+QA Engineer and competitive programmer with 2 year+ of industry experience. Proficient in test management, database, and application testing, sharpening a problem-solving mindset through active participation in coding competitions. Dedicated to ensuring software quality and driving continuous improvement within dynamic teams.
 
 
 ### Software QA Engineer   
